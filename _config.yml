@@ -1,7 +1,7 @@
 # Site
 title:              파이썬
 bio:                'wellcome to my blog'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "실습-이름과 점수를 파일에 저장하기"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
